@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(251, 243, 233);
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 90px;
+  background-color: bisque;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: rgb(58, 35, 7);
+}
+li{
+  list-style-type: none;
+  padding: 10px;
+  margin: 5px;
+}
